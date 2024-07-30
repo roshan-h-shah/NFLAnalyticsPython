@@ -1,1 +1,3 @@
 # NFLAnalyticsPython
+Analysis: Overall, Gradient Boosting Regression performed the most accurate with a mean squared error of 43.323. While the error seems relatively large, some of this is due to the unpredictability of sports. Thus, even with a seemingly large mean squared error, the model proved to be 76.9% accurate in theoretical bets placed using the models prediced passing touchdowns by NFL Quarterbacks in the 2022-2023 season, compared to Vegas Insider's 2022 Prohected Passing Touchdowns. ALthough the sample size was small, n = 26, this regression model seems promising because any model with a more effective succcess rate than 54% is profitable in the world of sports analytics and betting.
+Improvements:
